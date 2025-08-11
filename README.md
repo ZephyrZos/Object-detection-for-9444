@@ -15,8 +15,8 @@ This repository contains Python implementations of multiple object detection met
 
 ```
 Drone_ObjectDetection/
-├── Yolo_method/          # YOLOv5 implementation (78 Python files)
-├── UAV-DETR/             # UAV-DETR with custom ultralytics (127 Python files)
+├── Yolo_method/          # YOLOv5 implementation 
+├── UAV-DETR/             # UAV-DETR with custom ultralytics 
 ├── Faster_rcnn/          # Faster R-CNN implementation
 ├── Yolov8/               # YOLOv8 evaluation scripts
 ├── convert_*.py          # Dataset conversion utilities
